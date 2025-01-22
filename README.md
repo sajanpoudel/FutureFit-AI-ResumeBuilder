@@ -4,6 +4,8 @@ FutureFit is a modern, AI-powered resume builder that helps you create tailored 
 
 ## ✨ Live Demo
 
+![Future Fit Animation](https://github.com/sajanpoudel/FutureFit-AI-ResumeBuilder/blob/main/FutureFit.gif?raw=true)
+
 Try it out: [FutureFit Resume Builder](https://future-fit-plum.vercel.app/)
 
 ## 🚀 Features
